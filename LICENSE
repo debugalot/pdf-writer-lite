@@ -1,0 +1,17 @@
+PDF Writer Lite for Godot - license
+
+Copyright (c) 2026 Sir Debugalot (ExcaliBug)
+
+You may use this add-on for free in any number of your own projects, free or commercial, ship it
+inside the games and apps you make with it, and share or sell the PDFs it makes. You may change it
+for those projects, except as below.
+
+Every page it makes carries the PDF Writer Lite watermark: the large, faint knight across the page
+and the "Made with PDF Writer Lite" line with its link. You may not remove, hide, cover, fade, shrink
+or otherwise change the watermark, or change the add-on so it stops drawing it. For PDFs without the
+watermark, get PDF Writer, the full version: https://debugalot.itch.io/pdf-writer
+
+You may not resell or redistribute the add-on itself, changed or unchanged, as an asset, template or
+tool, or publish a changed version of it.
+
+The add-on is provided as is, without warranty of any kind.

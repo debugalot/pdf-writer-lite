@@ -1,0 +1,16 @@
+; Engine configuration file.
+
+config_version=5
+
+[application]
+
+config/name="PDF Writer Lite"
+config/description="PDF Writer Lite for Godot: Latin-text PDFs from GDScript. Demo and tests."
+run/main_scene="res://demo/demo.tscn"
+config/features=PackedStringArray("4.7", "Forward Plus")
+config/icon="res://addons/pdf_writer/icon.svg"
+
+[display]
+
+window/size/viewport_width=1100
+window/size/viewport_height=720
